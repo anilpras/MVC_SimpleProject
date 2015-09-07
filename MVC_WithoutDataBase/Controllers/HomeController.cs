@@ -10,7 +10,7 @@ namespace MVC_WithoutDataBase.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application, published to github";
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application, published to github_test";
 
             return View();
         }
